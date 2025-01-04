@@ -1,7 +1,5 @@
 # Python Libraries for Study and Exploration 🐍📚
 
-![Welcome Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+Python+Libraries+for+Study+%26+Exploration!)
-
 Welcome to my GitHub repository! 🚀 This project is dedicated to providing well-documented Python libraries like **NumPy** and **Pandas**, with examples and explanations, designed for learning and in-depth exploration.
 
 ## 🌟 Features
